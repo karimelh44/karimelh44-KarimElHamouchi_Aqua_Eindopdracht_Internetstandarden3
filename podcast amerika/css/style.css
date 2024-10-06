@@ -1,0 +1,201 @@
+
+@import url('https://fonts.googleapis.com/css2?family=SUSE:wght@100..800&display=swap');
+
+* {
+  font-family: "SUSE", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
+
+      
+      
+      
+
+/* Dark mode geprobeerd te implementeren maar geen manier gevonden zonder javascript en verandering van kleuren */
+/* body {
+  padding: 25px;
+  background-color: white;
+  color: black;
+  font-size: 25px;
+} */
+
+/* .dark-mode {
+  background-color: black;
+  color: white;
+} */
+
+header{
+        background-color: blue;
+}
+
+header h1{
+        display: flex;
+        justify-content: center;
+}
+
+
+header div {
+        display: flex;
+        justify-content: end;
+}
+
+
+
+
+
+
+
+li a{
+        color: white;}
+
+li a:hover{
+        color: red;
+}
+
+li a:active{
+        color: black;
+}
+
+header h1 {
+   
+    width: fit-content;
+    background-color: blue;
+    color: white;
+}
+
+main {
+background-color: white;
+}
+
+
+main p {
+        color: white;
+border: 0.0em solid;
+width: auto;
+padding: 100em solid;
+background-color: indianred;
+}
+
+main p a {
+
+                 padding: 20px;
+                font-size: 30px;
+                width: 50px;
+                text-align: center;
+                text-decoration: none;
+        }
+
+main img {
+        width: 30%;
+                }
+
+main h1  {
+        color: white;
+        border: 0.0em solid;
+        width: auto;
+        padding: 100em solid;
+        background-color: indianred;
+        display: flex;
+        justify-content: center;
+}
+
+main h2       {
+        color: white;
+        border: 0.0em solid;
+        width: auto;
+        padding: 100em solid;
+        background-color: indianred;
+}
+
+main h2 {
+       display: flex;
+       justify-content: center;
+}
+
+main li {
+        display: block;
+        justify-content: right;
+        color: indianred;
+}
+
+main h3 {
+        display: flex;
+        justify-content: center;
+}
+
+
+
+main img {
+        border: 10px solid;
+        border-color: indianred;
+}
+
+main h3 {
+        border: 10px solid;
+        border-color: indianred;
+       }
+
+footer {
+        background-color: blue;
+}
+
+footer  #follow-button a:hover {
+  color: indianred;
+  font-family: "sans-serif";
+  font-size: 30pt;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #3399FF;
+  border-radius: 3px;
+  width: 30em;
+  height: 30px;
+  position: absolute;	 
+  top: 50px;
+  left: 50px;	
+  cursor: hand;	
+}
+footer a:hover {
+        color: green;
+}
+footer li a:hover {
+        
+        color: red;
+}
+footer li a:hover {
+        color: purple;
+        width: 50px;
+}
+
+footer li a {
+        color: white;
+}
+main div img {
+        display: flex;
+        justify-content: space-between;
+        width: 15em;
+
+        
+
+}
+
+main h3 {
+        color: white;
+        border: 0.0em solid;
+        width: auto;
+        padding: 100em solid;
+        background-color: indianred;
+}
+
+main h4 {
+        color: white;
+        border: 0.0em solid;
+        width: auto;
+        padding: 100em solid;
+        background-color: indianred;
+        display: flex;
+        justify-content: center;
+        
+
+}
